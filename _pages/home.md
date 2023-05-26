@@ -87,15 +87,15 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <tbody>
         <tr>
           <td>Submission Deadline</td>
-          <td>October 1st,  2022 - Anywhere on Earth (AoE)</td>
+          <td>October 1st,  2023 - Anywhere on Earth (AoE)</td>
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>October 17th, 2022 - AoE </td>
+          <td>October 17th, 2023 - AoE </td>
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>December 9th, 2022 - AoE </td>
+          <td>December 9th, 2023 - AoE </td>
         </tr>
       </tbody>
     </table>
@@ -255,22 +255,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 
 
-<div class="row" id="recordings">
-    <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-  </div>
-</div>
-
-<center><span style="color:#3a92d6;font-weight:400;">
-<a style="font-weight:500;" href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/DLDE#accept--spotlight-">[Spotlight Papers]</a>
-</span></center>
-
-<center><span style="color:#3a92d6;font-weight:400;">
-<a style="font-weight:500;" href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/DLDE#accept--poster-">[Poster Papers]</a>
-</span></center>
-
-
-
 
 
 <div class="row" id="organizers">
@@ -282,7 +266,15 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   
-
+  <div class="col-xs-3">
+    <a href="https://www.eas.caltech.edu/people/anima">
+      <img class="people-pic" src="{{ "/static/img/people/animaanandkumar.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.eas.caltech.edu/people/anima">Anima Anandkumar</a>
+      <h6>Caltech</h6>
+    </div>
+  </div>
 
   
   <div class="col-xs-3">
@@ -333,9 +325,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
 
-  </div>
-
-  <div class="row">
 
    <div class="col-xs-3">
     <a href="https://qiyaowei.github.io">
