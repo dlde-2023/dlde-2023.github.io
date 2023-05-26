@@ -13,7 +13,9 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE) - III </h1></center>
+    <center><h1>The Symbiosis </h1></center>
+    <center><h1>of Deep Learning and Differential Equations</h1></center>
+    <center><h1>DLDE III </h1></center>
     <center><h2>NeurIPS 2023 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       December 9th, 07:00 AM to 14:00 PM EST,
