@@ -141,19 +141,9 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <p>
   Authors may be asked to review other workshop submissions. 
   </p>
-  <p>
-  Please submit your extended abstract to <span style="color:#3a92d6;font-weight:400;"><a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/DLDE">this address.</a></span>
-   </p>
     <p>
-  If you have any question, send an email to : [dlde.workshop@gmail.com]
+  If you have any question, send an email to : [luca.celotti@usherbrooke.ca]
   </p>
-  
-  
-<p>
-  If you have any question for the Invited Speakers, 
-  send it through <span style="color:#3a92d6;font-weight:400;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdFCYz-M0265jHEOwmnUXmkxhCPOM313B2piSV6KOgECGe1fw/viewform">this form</a></span>.
-</p>
-
 
   </div>
 
@@ -178,8 +168,6 @@ In particular, he has been prominent in developing the use of cutting-edge machi
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://www.kimlab.org/">Webpage</a>]</span></p>
   </div>
 </div><br>
-
-
 <div class="row">
   <div class="col-md-12">
     <p><b>Yulia Rubanova</b>
@@ -189,8 +177,6 @@ She completed her PhD in University of Toronto, supervised by Quaid Morris. She 
 <span style="color:#3a92d6;font-weight:400;">[<a href="http://www.cs.toronto.edu/~rubanova/">Webpage</a>]</span></p>
   </div>
 </div><br>
-
-
 <div class="row">
   <div class="col-md-12">
     <p><b>Michael Bronstein</b>
