@@ -167,17 +167,15 @@ His research lies at the intersection of modern computational and experimental a
 In particular, he has been prominent in developing the use of cutting-edge machine learning tools to design and validate novel therapeutic compounds and develop new innovative techniques for systems biology and translational science.
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://www.kimlab.org/">Webpage</a>]</span></p>
   </div>
-</div><br>
-<div class="row">
-  <div class="col-md-12">
+
+<div class="col-md-12">
     <p><b>Yulia Rubanova</b>
     (confirmed) is a Research Scientist at Deepmind.
 She is interested in structured representations of data and including the inductive bias into the deep learning models.
 She completed her PhD in University of Toronto, supervised by Quaid Morris. She worked on Neural ODE for irregularly-spaced time series (advised by David Duvenaud) and on modelling cancer evolution through time. During her PhD, She did three internships at Google Brain working on optimization of discrete objects in 2019-2020 and DeepVariant in 2018.
 <span style="color:#3a92d6;font-weight:400;">[<a href="http://www.cs.toronto.edu/~rubanova/">Webpage</a>]</span></p>
   </div>
-</div><br>
-<div class="row">
+
   <div class="col-md-12">
     <p><b>Michael Bronstein</b>
     (confirmed) is the DeepMind Professor of AI at the University of Oxford and Head of Graph Learning Research at Twitter. He was previously a professor at Imperial College London and held visiting appointments at Stanford, MIT, and Harvard, and has also been affiliated with three Institutes for Advanced Study (at TUM as a Rudolf Diesel Fellow (2017-2019), at Harvard as a Radcliffe fellow (2017-2018), and at Princeton as a short-time scholar (2020)). Michael received his PhD from the Technion in 2007. He is the recipient of the Royal Society Wolfson Research Merit Award, Royal Academy of Engineering Silver Medal, five ERC grants, two Google Faculty Research Awards, and two Amazon AWS ML Research Awards. He is a Member of the Academia Europaea, Fellow of IEEE, IAPR, BCS, and ELLIS, ACM Distinguished Speaker, and World Economic Forum Young Scientist. In addition to his academic career, Michael is a serial entrepreneur and founder of multiple startup companies, including Novafora, Invision (acquired by Intel in 2012), Videocites, and Fabula AI (acquired by Twitter in 2019). Recently, he's been working on graph  neural diffusion.
