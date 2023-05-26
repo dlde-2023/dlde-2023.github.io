@@ -161,36 +161,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 
 
-<div class="row" id="schedule">
-  <div class="col-xs-12">
-    <h2>Schedule</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <p><b>(Pacific Time) </b></p>
-    <ul>
-      <li>04:00 : Introduction and opening remarks</li>
-      <li>04:10 : Provable Active Learning of Neural Networks for Parametric PDEs (Spotlight) </li>
-      <li>04:25 : PIXEL: Physics-Informed Cell Representations for Fast and Accurate PDE Solvers (Spotlight) </li>
-      <li>04:40 : Bridging the Gap Between Coulomb GAN and Gradient-regularized WGAN (Spotlight) </li>
-      <li>04:55 : How PINNs cheat: Predicting chaotic motion of a double pendulum (Spotlight) </li>
-      <li>05:10 : Poster Session 1 </li>
-      <li>06:05 : Yang Song (Keynote Talk) </li>
-      <li>06:50 : Blind Drifting: Diffusion models with a linear SDE drift term for blind image restoration tasks (Spotlight) </li>
-      <li>07:05 : Break </li>
-      <li>08:05 : Rose Yu (Keynote Talk) </li>
-      <li>08:50 : A Universal Abstraction for Hierarchical Hopfield Networks (Spotlight) </li>
-      <li>09:05 : Poster Session 2 </li>
-      <li>10:00 : Christopher Rackauckas (Keynote Talk) </li>
-      <li>10:45 : Closing remarks </li>
-    </ul>
-  </div>
-</div>
-
-
-
 <br>
 <div class="row" id="speakers">
   <div class="col-xs-12">
@@ -201,30 +171,31 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/chrisrackauckas.jpg" | prepend:site.baseurl }}">
-    <p><b>Chris Rackauckas</b>
-    (confirmed) is the Co-PI of the Julia Lab at the Computer Science and AI Laboratory (CSAIL) of the Massachussets Institute of Science and Technology (MIT), as well as the director of Modeling and Simulation at Julia Computing and of Scientific Research at Pumas-AI. His research spans topics in numerical methods for differential equations, scientific machine learning and high-performance computing. He is the lead developer of the DifferentialEquations.jl solver suite along with over a hundred other Julia packages, earning him the inaugural Julia Community Prize, an outstanding paper award at the IEEE-HPEC conference on computational derivation for the efficient stochastic differential equation solvers, and front page features on many tech community sites.
-    <span style="color:#3a92d6;font-weight:400;">[<a href="https://chrisrackauckas.com/">Webpage</a>]</span></p>
+    <p><b>Philip M. Kim</b>
+    (confirmed) is a Professor at the University of Toronto affiliated with the Departments of Molecular Genetics and Computer Science, the Faculty of Medicine, the Terrence Donnelly Centre for Cellular and Biomolecular Research, and the Collaborative Program for Genome Biology and Bioinformatics.
+His research lies at the intersection of modern computational and experimental approaches in biomedical science, and aims to make applied contributions to patient care and medical therapies while also contributing to fundamental bioscience research.
+In particular, he has been prominent in developing the use of cutting-edge machine learning tools to design and validate novel therapeutic compounds and develop new innovative techniques for systems biology and translational science.
+    <span style="color:#3a92d6;font-weight:400;">[<a href="https://www.kimlab.org/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/rose_Yu.jpg" | prepend:site.baseurl }}">
-    <p><b>Rose Yu</b>
-    (confirmed) is an assistant professor at UC San Diego department of Computer Science and Engineering and Halıcıo ̆glu Data Science Institute. She is a primary faculty with the AI Group and is affiliated with Contextual Robotics Institute, Bioinformatics and Systems Biology, and Center for Machine-Integrated Computing and Security. Her research interests lie primarily in machine learning, especially for large-scale spatiotemporal data. She is generally interested in deep learning, optimization, and spatio-temporal reasoning, and particularly excited about the interplay between physics and machine learning. Her work has been applied to learning dynamical systems in sustainability, health and physical sciences.
-<span style="color:#3a92d6;font-weight:400;">[<a href="https://roseyu.com/">Webpage</a>]</span></p>
+    <p><b>Yulia Rubanova</b>
+    (confirmed) is a Research Scientist at Deepmind.
+She is interested in structured representations of data and including the inductive bias into the deep learning models.
+She completed her PhD in University of Toronto, supervised by Quaid Morris. She worked on Neural ODE for irregularly-spaced time series (advised by David Duvenaud) and on modelling cancer evolution through time. During her PhD, She did three internships at Google Brain working on optimization of discrete objects in 2019-2020 and DeepVariant in 2018.
+<span style="color:#3a92d6;font-weight:400;">[<a href="http://www.cs.toronto.edu/~rubanova/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/yangsong.jpg" | prepend:site.baseurl }}">
-    <p><b>Yang Song</b>
-    (confirmed) is a final year Ph.D. student of Computer Science at Stanford University. His work focuses on the foundations of deep generative models, as well as their applications to AI safety, inverse problems, and their impacts on the broader field of machine learning. He has made several key contributions to the mathematical formulation and empirical performance of continuous-time score-based diffusion models, currently state--of--the--art methods in deep generative modeling.
-    <span style="color:#3a92d6;font-weight:400;">[<a href="https://yang-song.github.io/">Webpage</a>]</span></p>
+    <p><b>Michael Bronstein</b>
+    (confirmed) is the DeepMind Professor of AI at the University of Oxford and Head of Graph Learning Research at Twitter. He was previously a professor at Imperial College London and held visiting appointments at Stanford, MIT, and Harvard, and has also been affiliated with three Institutes for Advanced Study (at TUM as a Rudolf Diesel Fellow (2017-2019), at Harvard as a Radcliffe fellow (2017-2018), and at Princeton as a short-time scholar (2020)). Michael received his PhD from the Technion in 2007. He is the recipient of the Royal Society Wolfson Research Merit Award, Royal Academy of Engineering Silver Medal, five ERC grants, two Google Faculty Research Awards, and two Amazon AWS ML Research Awards. He is a Member of the Academia Europaea, Fellow of IEEE, IAPR, BCS, and ELLIS, ACM Distinguished Speaker, and World Economic Forum Young Scientist. In addition to his academic career, Michael is a serial entrepreneur and founder of multiple startup companies, including Novafora, Invision (acquired by Intel in 2012), Videocites, and Fabula AI (acquired by Twitter in 2019). Recently, he's been working on graph  neural diffusion.
+    <span style="color:#3a92d6;font-weight:400;">[<a href="https://www.cs.ox.ac.uk/people/michael.bronstein/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
