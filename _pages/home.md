@@ -300,6 +300,19 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
 
+
+
+  <div class="col-xs-3">
+    <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">
+      <img class="people-pic" src="{{ "/static/img/people/ermalrrapaj.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">Ermal Rrapaj</a>
+      <h6>University of California, Berkley</h6>
+    </div>
+  </div>
+
+
 </div>
 
 <div class="row">
@@ -335,24 +348,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <h6>University of Cambridge</h6>
     </div>
   </div>
-  
-
-  </div>
-  
-
-  <div class="row">
-
-
-  <div class="col-xs-3">
-    <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">
-      <img class="people-pic" src="{{ "/static/img/people/ermalrrapaj.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">Ermal Rrapaj</a>
-      <h6>University of California, Berkley</h6>
-    </div>
-  </div>
-
 
   <div class="col-xs-3">
     <a href="https://lucehe.github.io/">
