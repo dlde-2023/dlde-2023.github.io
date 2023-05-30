@@ -179,7 +179,7 @@ She completed her PhD in University of Toronto, supervised by Quaid Morris. She 
   </div>
 
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/michealbronstein.jpg" | prepend:site.baseurl }}">
+    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/michaelbronstein.jpg" | prepend:site.baseurl }}">
     <p><b>Michael Bronstein</b>
     (confirmed) is the DeepMind Professor of AI at the University of Oxford and Head of Graph Learning Research at Twitter. He was previously a professor at Imperial College London and held visiting appointments at Stanford, MIT, and Harvard, and has also been affiliated with three Institutes for Advanced Study (at TUM as a Rudolf Diesel Fellow (2017-2019), at Harvard as a Radcliffe fellow (2017-2018), and at Princeton as a short-time scholar (2020)). Michael received his PhD from the Technion in 2007. He is the recipient of the Royal Society Wolfson Research Merit Award, Royal Academy of Engineering Silver Medal, five ERC grants, two Google Faculty Research Awards, and two Amazon AWS ML Research Awards. He is a Member of the Academia Europaea, Fellow of IEEE, IAPR, BCS, and ELLIS, ACM Distinguished Speaker, and World Economic Forum Young Scientist. In addition to his academic career, Michael is a serial entrepreneur and founder of multiple startup companies, including Novafora, Invision (acquired by Intel in 2012), Videocites, and Fabula AI (acquired by Twitter in 2019). Recently, he's been working on graph  neural diffusion.
     <span style="color:#3a92d6;font-weight:400;">[<a href="https://www.cs.ox.ac.uk/people/michael.bronstein/">Webpage</a>]</span></p>
