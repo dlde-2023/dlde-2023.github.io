@@ -18,7 +18,7 @@ acknowledgements: ""
     <center><h1>DLDE III </h1></center>
     <center><h2>NeurIPS 2023 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      December 9th, 07:00 AM to 14:00 PM EST,
+      December 16th, 07:00 AM to 14:00 PM EST,
       Virtual Workshop
     </span></center>
   </div>
