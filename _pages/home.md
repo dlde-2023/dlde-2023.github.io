@@ -134,7 +134,7 @@ Responding to demand from last year's attendees, <b>this year's edition will pla
 
   <p>
   Submissions should be up to 4 pages excluding references, acknowledgements, and supplementary material, and should be
-      <span style="color:#3a92d6;font-weight:400;"><a href="https://github.com/dlde-2022/dlde-2022.github.io/tree/master/static/sty/dlde_neurips_2022.sty">DLDE-NeurIPS format</a></span> and anonymous. Long appendices are permitted but strongly discouraged, and reviewers are not required to read them. The review process is double-blind.
+      <span style="color:#3a92d6;font-weight:400;"><a href="https://github.com/dlde-2023/dlde-2023.github.io/tree/master/static/sty/dlde_neurips_2023.sty">DLDE-NeurIPS format</a></span> and anonymous. Long appendices are permitted but strongly discouraged, and reviewers are not required to read them. The review process is double-blind.
   </p>
   <p>
   We also welcome submissions of recently published work that is strongly within the scope of the workshop (with proper formatting). We encourage the authors of such submissions to focus on accessibility to the wider NeurIPS community while distilling their work into an extended abstract. Submission of this type will be eligible for poster sessions after a lighter review process.
