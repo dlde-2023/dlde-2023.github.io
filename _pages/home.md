@@ -52,21 +52,16 @@ acknowledgements: ""
   <div class="col-xs-12">
 <p>
 
-<p>
-In recent years, there has been a rapid increase of machine learning applications in computational sciences, with some of the most impressive results at the interface of deep learning (DL) and differential equations (DEs). 
-DL techniques have been used in a variety of ways to dramatically enhance the effectiveness of DE solvers and computer simulations.
-These successes have widespread implications, as DEs are among the most well-understood tools for the mathematical analysis of scientific knowledge, and they are fundamental building blocks for mathematical models in engineering, finance, and the natural sciences.
-Conversely, DL algorithms based on DEs--such as neural differential equations and continuous-time diffusion models--have also been successfully employed as deep learning models.
-Moreover, theoretical tools from DE analysis have been used to glean insights into the expressivity and training dynamics of mainstream deep learning algorithms. </p>
 
 <p>
-This workshop will aim to bring together researchers with backgrounds in computational science and deep learning to encourage intellectual exchanges, cultivate relationships and accelerate research in this area.
-The scope of the workshop spans topics at the intersection of DL and DEs, including theory of DL and DEs, neural differential equations, solving DEs with neural networks, and more. </p>
-
-
-<p>
-
+In the deep learning community, a remarkable trend is emerging, where powerful architectures are created by leveraging classical mathematical modeling tools from diverse fields like differential equations, signal processing, and dynamical systems. Differential equations are a prime example: research on neural differential equations has expanded to include a large zoo of related models with applications ranging from time series analysis to robotics control. Score-based diffusion models are among state-of-the-art tools for generative modelling, drawing connections between diffusion models and neural differential equations. Other examples of deep architectures with important ties to classical fields of mathematical modelling include normalizing flows, graph neural diffusion models, Fourier neural operators, architectures exhibiting domain-specific equivariances, and latent dynamical models (e.g., latent NDEs, H3, S4, Hyena).
 </p>
+
+<p>
+The previous two editions of the Workshop on the Symbiosis of Deep Learning and Differential Equations have promoted the bidirectional exchange of ideas at the intersection of classical mathematical modelling and modern deep learning. On the one hand, this includes the use of differential equations and similar tools to create neural architectures, accelerate deep learning optimization problems, or study theoretical problems in deep learning. On the other hand, the Workshop also explores the use of deep learning methods to improve the speed, flexibility, or realism of computer simulations. 
+Responding to demand from last year's attendees, <b>this year's edition will place a special focus on neural architectures that leverage classical mathematical models, such as those listed above.</b>
+</p>
+
 
 <br>
 
@@ -91,7 +86,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>December 16th, 2023 - AoE </td>
+          <td>December 16th, 2023 </td>
         </tr>
       </tbody>
     </table>
@@ -106,7 +101,8 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-12">
     <p>
-      We invite high-quality extended abstract submissions on the intersection of DEs and DL. Some examples (non-exhaustive list):
+      We invite high-quality extended abstract submissions on the intersection of DEs and DL, including <b>but not limited to</b> works that connect to this year's focus area of neural architectures that leverage classical mathematical models (see above).
+      Some examples (non-exhaustive list):
     </p>
 
 <p>  
@@ -123,7 +119,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <ul>
         <li>DL methods for solving high-dimensional, highly parameterized, or otherwise challenging DE models.</li>
         <li>Learning-augmented numerical methods for DEs (hypersolvers, hybrid solvers ...) </li>
-        <li>Specialized DL architectures for solving DEs (neural operators, PINNs, ...). </li>
+        <li>Specialized DL architectures for solving DEs (neural operators, PINNs,  ...). </li>
       </ul>
     </ul>
   </div>
@@ -133,8 +129,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <p> <span style="font-weight:500;">Submission:</span>
   <br/>
     Accepted submissions will be presented during joint poster sessions and will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals. 
-    Exceptional submissions will be either selected for four 15-minute contributed talks
-    or eight 5-minute spotlight oral presentations. 
+    Exceptional submissions will be selected for spotlight talks. 
   </p>
 
   <p>
