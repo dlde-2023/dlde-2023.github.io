@@ -19,7 +19,10 @@ acknowledgements: ""
     <center><h1>DLDE III </h1></center>
     <center><h2>NeurIPS 2023 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      December 16th, in-person at the New Orleans Ernest N. Morial Convention Center
+      December 16th, 9 am to 5:30 pm EST
+    </span></center>
+    <center><span style="color:#e74c3c;font-weight:400;">
+      In-person at the New Orleans Ernest N. Morial Convention Center
     </span></center>
     <center><span style="color:#e74c3c;font-weight:400;"> 
       <a href="[url](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE)">Submit on OpenReview</a>
