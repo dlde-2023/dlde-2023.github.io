@@ -21,12 +21,12 @@ acknowledgements: ""
     <center><span style="color:#e74c3c;font-weight:400;">
       December 16th, in-person at the New Orleans Ernest N. Morial Convention Center
     </span></center>
-    <center>
-      Submit on OpenReview: https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE
-    </center>
-    <center>
+    <center><span style="color:#e74c3c;font-weight:400;"> 
+      <a href="[url](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE)">Submit on OpenReview</a>
+    </span></center>
+    <center><span style="color:#e74c3c;font-weight:400;">
       Questions? Contact us at luca.celotti@usherbrooke.ca
-    </center>
+    </span></center>
   </div>
 </div>
 
