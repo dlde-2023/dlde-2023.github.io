@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "The Symbiosis of Deep Learning and Differential Equations (DLDE)"
 title: "The Symbiosis of Deep Learning and Differential Equations (DLDE)"
-categories: nips, neurips, vancouver, canada, workshop, differential equations, machine learning, dlde, 2021, neurips21
+categories: nips, neurips, new orleans, louisiana, workshop, differential equations, machine learning, dlde, 2023, neurips23
 permalink: /
 <!-- favicon: /static/img/embodiedqa/favicon.png -->
 bibtex: true
@@ -19,8 +19,14 @@ acknowledgements: ""
     <center><h1>DLDE III </h1></center>
     <center><h2>NeurIPS 2023 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      December 16th, 07:00 AM to 14:00 PM EST
+      December 16th, in-person at the New Orleans Ernest N. Morial Convention Center
     </span></center>
+    <center>
+      Submit on OpenReview: https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE
+    </center>
+    <center>
+      Questions? Contact us at luca.celotti@usherbrooke.ca
+    </center>
   </div>
 </div>
 
@@ -188,18 +194,6 @@ She completed her PhD in University of Toronto, supervised by Quaid Morris. She 
 
 
 
-<div class="row" id="recordings">
-    <div class="col-xs-12">
-    <h2>Recordings</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-    The workshop will be broadcasted via Zoom and poster sessions will be on Gathertown. We will upload the recordings on YouTube.</p>
-  </div>
-</div>
 
 
 
