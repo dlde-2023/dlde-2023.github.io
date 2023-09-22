@@ -10,7 +10,6 @@ paper: true
 acknowledgements: ""
 ---
 
-
 <br>
 <div class="row">
   <div class="col-xs-12">
