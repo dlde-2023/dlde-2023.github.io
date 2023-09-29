@@ -80,7 +80,7 @@ Responding to demand from last year's attendees, <b>this year's edition will pla
       <tbody>
         <tr>
           <td>Submission Deadline</td>
-          <td>October 1st,  2023 - Anywhere on Earth (AoE)</td>
+          <td>October 8th,  2023 - Anywhere on Earth (AoE)</td>
         </tr>
         <tr>
           <td>Final Decisions</td>
