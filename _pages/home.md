@@ -84,7 +84,7 @@ Responding to demand from last year's attendees, <b>this year's edition will pla
         </tr>
         <tr>
           <td>Final Decisions</td>
-          <td>October 20th, 2023 - AoE </td>
+          <td>October 24th, 2023 - AoE </td>
         </tr>
         <tr>
           <td>Workshop Date</td>
