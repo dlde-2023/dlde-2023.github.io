@@ -162,7 +162,7 @@ Responding to demand from last year's attendees, <b>this year's edition will pla
 
 <div class="row">
   <div class="col-xs-12">
-    <p><b>(EST Time) </b></p>
+    <p><b>(Eastern Standard Time) </b></p>
     <ul>
       <li>08:15 : Introduction and opening remarks (Anima Anandkumar) </li>
 
