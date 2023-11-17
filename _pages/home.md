@@ -166,14 +166,14 @@ Responding to demand from last year's attendees, <b>this year's edition will pla
     <ul>
       <li>08:15 : Introduction and opening remarks </li>
 
-      <li>08:45 : Philip M. Kim (Keynote Talk) </li>
+      <li>08:45 : <strong>Philip M. Kim (Keynote Talk)</strong> </li>
 
       <li>09:30 : Effective Latent Differential Equation Models via Attention and Multiple Shooting (Spotlight) </li>
       <li>09:45 : Adaptive Resolution Residual Networks (Spotlight) </li>
 
       <li>10:00 : Poster Session 1 </li>
 
-      <li>10:45 : Yulia Rubanova (Keynote Talk) </li>
+      <li>10:45 : <strong>Yulia Rubanova (Keynote Talk)</strong> </li>
 
       <li>11:30 : Can Physics informed Neural Operators Self Improve? (Spotlight) </li>
       <li>11:45 : ELeGANt: An Euler-Lagrange Analysis of Wasserstein Generative Adversarial Networks (Spotlight) </li>
@@ -182,10 +182,10 @@ Responding to demand from last year's attendees, <b>this year's edition will pla
       <li>12:00 : Lunch Break </li>
       <br>
 
-      <li>13:00 : Michael Bronstein (Keynote Talk) </li>
+      <li>13:00 : <strong>Michael Bronstein (Keynote Talk)</strong> </li>
       <li>13:45 : Vertical AI-driven Scientific Discovery (Spotlight) </li>
 
-      <li>14:00 : Albert Gu (Keynote Talk) </li>
+      <li>14:00 : <strong>Albert Gu (Keynote Talk)</strong> </li>
       <li>14:45 : TANGO: Time-reversal Latent GraphODE for Multi-Agent Dynamical Systems (Spotlight) </li>
 
       <li>15:00 : Poster Session 2 </li>
