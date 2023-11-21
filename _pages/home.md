@@ -171,8 +171,7 @@ Responding to demand from last year's attendees, <b>this year's edition will pla
       <li>09:30 : Effective Latent Differential Equation Models via Attention and Multiple Shooting (Spotlight) </li>
       <li>09:45 : Adaptive Resolution Residual Networks (Spotlight) </li>
 
-
-      <li>10:00 :  Break </li>
+      <li>10:00 : Break </li>
       <li>10:15 : Poster Session 1 </li>
 
       <li>11:00 : <strong>Yulia Rubanova (Keynote Talk)</strong> </li>
