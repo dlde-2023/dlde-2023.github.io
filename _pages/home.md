@@ -266,8 +266,8 @@ She completed her PhD in University of Toronto, supervised by Quaid Morris. She 
     </a>
     <div class="people-name">
       <a href="https://winniexu.ca/">Winnie Xu</a>
-      <h6>University of Toronto</h6>
-      <h6>Google Brain</h6>
+      <h6>Stanford</h6>
+      <h6>Contextual AI</h6>
     </div>
   </div>
   
