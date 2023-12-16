@@ -26,6 +26,9 @@ acknowledgements: ""
     <center><span style="color:#e74c3c;font-weight:400;"> 
       <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/DLDE">Submit on OpenReview</a>
     </span></center>
+    <center><span style="color:#e74c3c;font-weight:400;"> 
+      <a href="https://neurips.cc/virtual/2023/workshop/66538">Join us virtually here if you are not in New Orleans!</a>
+    </span></center>
     <center><span style="color:#e74c3c;font-weight:400;">
       Questions? Contact us at luca.celotti@usherbrooke.ca
     </span></center>
